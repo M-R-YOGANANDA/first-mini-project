@@ -1,7 +1,7 @@
 #before running this code in python install opencv by using pip
 #run this in your command propt 
-#"pip install opencv"
-
+#"pip install opencv from internet"
+#"use cmd prompt to instsllpackage"
 
 
 import cv2
